@@ -8,7 +8,7 @@ Actually, I'm not that kind of person who is good at explaning codes, programs, 
 
 * Install 'wave' before you use this. (command: pip install wave)
 * You need 'ffmpeg' also for using this. (Search google and install it appropriately according to your OS)
-* And this file is set of functions so only existence of the file is enough.
+* And this file is a set of functions so only existence of the file is enough.
 
 ## 3. audioconverter.py
 
