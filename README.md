@@ -10,7 +10,7 @@ Actually, I'm not that kind of person who is good at explaning codes, programs, 
 * And the program will end if it senses a period of silence.
 * It will keep record sounds unless you press " control + c "
 
-notice!) I revise certain codes on website to make this program so if there is any problem related to copyright or something, please let me know.
+notice!) I revised certain codes on website to make this program so if there is any problem related to copyright or something, please let me know.
 
 ## 2. ac_utils.py
 
