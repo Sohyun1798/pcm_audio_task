@@ -6,7 +6,7 @@ Actually, I'm not that kind of person who is good at explaning codes, programs, 
 
 * You need "pyaudio" to use this program. (maybe the command is "pip install pyaudio" but I can't remember well so recommand you searching through google.)
 * And also need 'wave'. Anyways you should install it to use 'ac_utils.py'.
-* After you run this code(with command winddow or pycharm whatever) the program will record your voice or sound if it's at certain frequency.
+* After you run this code(with command window or pycharm whatever) the program will record your voice or sound if it's at certain frequency.
 * And the program will end if it senses a period of silence.
 * It will keep record sounds unless you press " control + c "
 
