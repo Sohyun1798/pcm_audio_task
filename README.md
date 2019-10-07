@@ -21,9 +21,13 @@ notice!) I revised certain codes on website to make this program so if there is 
 ## 3. audioconverter.py
 
 parser.add_argument("mode", choices = ['amr2pcm', 'mp32pcm', 'wav2pcm'])
+
 parser.add_argument("-ap", "--amrpath", default = "")
+
 parser.add_argument("-mp", "--mp3path", default = "")
+
 parser.add_argument("-wp", "--wavpath", default = "")
+
 parser.add_argument("-pp", "--pcmpath", default = "")
 
 * You need directories before you run this code. And even though you don't actually work with .wav file( for instance, amr file to pcm file or mp3 file to pcm file), you need wav file directory because of the converting process.
